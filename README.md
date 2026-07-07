@@ -1,37 +1,81 @@
-<h1 align="left">Olá, me chamo Pedro 🙋🏻‍♂️</h1>
+# 👋 Olá! Eu sou o Pedro 
 
-###
+<p align="center">
+Desenvolvedor Back-end apaixonado por tecnologia, automação e resolução de problemas através da programação.
+</p>
 
-<p align="center">Graduado em Análise e desenvolvimento de sistemas na UNIP, tenho contato com linguagens como C#, Python e banco de dados nos quais estão disponíveis nos repositórios do meu GitHub abaixo, estou buscando aprofundar meus estudos em back-end para uma oportunidade de trabalhar como desenvolvedor.</p>
+<p align="center">
+🎓 Graduado em Análise e Desenvolvimento de Sistemas • 💻 Python • C# • SQL 
+</p>
 
-###
+---
 
-<h2 align="left">Minhas redes sociais 📱📞</h2>
+## 👨‍💻 Sobre mim
 
-###
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e tenho interesse em desenvolver soluções que automatizem processos e resolvam problemas reais.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-rafael-adriano-gregorio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="45" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/pedro_fierce" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="45" alt="instagram logo"  />
-  </a>
-  <a href="pedro.rag01@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="70" height="45" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+Atualmente atuo no desenvolvimento Back-end utilizando **Python**, adquirindo experiência prática com manipulação de arquivos, integração com serviços, banco de dados e boas práticas de desenvolvimento.
 
-###
+Estou aprofundando meus conhecimentos em **Python**, **Django**, **APIs REST** e **bancos de dados**, sempre buscando evoluir tecnicamente e escrever um código cada vez mais limpo, organizado e escalável.
 
-<h2 align="left">Linguagens utilizadas 💻</h2>
+---
 
-###
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="55" alt="python logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="55" alt="Django"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="C#"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="55" alt=".NET"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="55" alt="SQLite"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git"/>
+<img width="20"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub"/>
+
 </div>
 
-###
+
+---
+
+## 🎯 Objetivo
+
+Evoluir constantemente como Desenvolvedor Back-end, desenvolvendo soluções que gerem valor através da tecnologia, sempre buscando aprender novas ferramentas, boas práticas e arquiteturas de software.
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-rafael-adriano-gregorio/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60"/>
+</a>
+
+<a href="https://www.instagram.com/pedro_fierce/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60"/>
+</a>
+
+<a href="mailto:pedro.rag01@hotmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60"/>
+</a>
+
+</div>
+
+---
+
+</div>
